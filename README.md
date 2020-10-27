@@ -22,20 +22,25 @@ Download and copy these weights into the same folder as your notebooks.
 #### Note: Without weights, this model is useless. To get accurate results, use my weights or train your own.
 
 # Working
+## Select whichever option you want to perform
+<br>
 ![Sentiment analysis home](https://github.com/akash-shastri/Images/blob/main/Sentiment%20analysis%20home.PNG)
-Select whichever option you want to perform
 
+## add the path to your review text file
+<br>
 ![Pre Classify](https://github.com/akash-shastri/Images/blob/main/classify.PNG)
-add the path to your review text file
 
+## This is what the result looks like. pos is positive sentiment and neg is negative sentiment
+<br>
 ![Post Classify](https://github.com/akash-shastri/Images/blob/main/post%20clasify.PNG) 
-This is what the result looks like. pos is positive sentiment and neg is negative sentiment
 
+## Add the starting prompt and the number of words for the review
+<br>
 ![Pre Create](https://github.com/akash-shastri/Images/blob/main/Create%20pre.PNG)
-Add the starting prompt and the number of words for the review
 
+## This is what the result looks like.
+<br>
 ![Post Create](https://github.com/akash-shastri/Images/blob/main/create%20post.PNG)
-This is what the result looks like.
 
 
 
