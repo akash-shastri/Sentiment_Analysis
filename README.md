@@ -12,6 +12,8 @@ git clone https://github.com/fastai/fastai
 pip install -e "fastai[dev]"
 ```
 
+You will also need jupyter notebook to run the notebooks. I use anaconda for this, you can use any number of options available (eg: Colab)
+
 # Working
 First paste the review to the review.txt file or add the path to your text file containing review in the below line.
 
