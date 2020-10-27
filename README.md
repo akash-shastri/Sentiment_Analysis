@@ -22,11 +22,20 @@ Download and copy these weights into the same folder as your notebooks.
 #### Note: Without weights, this model is useless. To get accurate results, use my weights or train your own.
 
 # Working
-First paste the review to the review.txt file or add the path to your text file containing review in the below line.
+![Sentiment analysis home](https://github.com/akash-shastri/Images/blob/main/Sentiment%20analysis%20home.PNG)
+Select whichever option you want to perform
 
-```
-rev = open('./review.txt').read()
-```
+![Pre Classify](https://github.com/akash-shastri/Images/blob/main/classify.PNG)
+add the path to your review text file
 
-To create a new review, prompt is the start of your new review and N_WORDS is the number of words in the review. You can change these parameters as needed.
+![Post Classify](https://github.com/akash-shastri/Images/blob/main/post%20clasify.PNG) 
+This is what the result looks like. pos is positive sentiment and neg is negative sentiment
+
+![Pre Create](https://github.com/akash-shastri/Images/blob/main/Create%20pre.PNG)
+Add the starting prompt and the number of words for the review
+
+![Post Create](https://github.com/akash-shastri/Images/blob/main/create%20post.PNG)
+This is what the result looks like.
+
+
 
