@@ -23,23 +23,23 @@ Download and copy these weights into the same folder as your notebooks.
 
 # Working
 ## Select whichever option you want to perform
-<br>
+
 ![Sentiment analysis home](https://github.com/akash-shastri/Images/blob/main/Sentiment%20analysis%20home.PNG)
 
 ## add the path to your review text file
-<br>
+
 ![Pre Classify](https://github.com/akash-shastri/Images/blob/main/classify.PNG)
 
 ## This is what the result looks like. pos is positive sentiment and neg is negative sentiment
-<br>
+
 ![Post Classify](https://github.com/akash-shastri/Images/blob/main/post%20clasify.PNG) 
 
 ## Add the starting prompt and the number of words for the review
-<br>
+
 ![Pre Create](https://github.com/akash-shastri/Images/blob/main/Create%20pre.PNG)
 
 ## This is what the result looks like.
-<br>
+
 ![Post Create](https://github.com/akash-shastri/Images/blob/main/create%20post.PNG)
 
 
